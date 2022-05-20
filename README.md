@@ -19,7 +19,7 @@ Major Release | `1.17.x` | `2` | `0` | `0` | B`01` | *SparkParks RP 1.16.x **2**
 
 ## Resource-Pack Optimized Game Settings
 *Our Resource-Pack takes advantage of many unique and advanced rendering features of the Minecraft game engine. As such your game video graphical settings should be set to match the parameters listed below to ensure you receive the best in-game visual experience while using the SparkParks pack.
-**All video settings are changable in game by clicking: `Options -> Video Settings`**.*
+**All video settings are changable in game by clicking: `Options -> Video Settings`**.*[^3]
 + Graphics : `Fancy` *or* `Fabulous!`
 + Smooth Lighting : `Maximum`
 + Smooth Lighting Level : `100%`
@@ -46,7 +46,7 @@ We're Sorry to hear if you're experiencing any problems with our Resource-Pack.
 1. Check to make sure the correct pack version is installed for your game version
 2. Check your game log for any errors in loading the pack.
 
-   *Please submit those errors to us via the SparkParks Help Desk [Here](https://support.onebignation.net/desk).*[^3]
+   *Please submit those errors to us via the SparkParks Help Desk [Here](https://support.onebignation.net/desk).*[^4]
 3. Check your graphics card information and update drivers.
 
 **Should the steps above prove unsucessful, please reach out to our Guest Relations team on our Discord.**
@@ -57,4 +57,5 @@ If you are not already a member of the SparkParks.Net public discord, you can jo
 [^1]: This ResourcePack is proprietary property of SparkParks.Net and is not to be redistributed for use on other networks without express consent of the server owner. All texture imagery within this pack is artistically developed or creative commons attributed by the park experience team. All original works within this pack are copyrighted on behalf of the pack texture artists by SparkParks. All models developed within this Resource-Pack are created and owned by SparkParks.Net.
 Any custom imagery or code within this pack not owned by SparkParks already exists in the creative commons public domain or use of those resources was granted by the original content creators and credit denoted in the license file found [Here](https://www.github.com/OneBigNation-Networks/SparkParks-ResourcePack/license).
 [^2]: SparkParks.Net offers this Resource-Pack for use on our domain without any warranty. We do not guarantee that all rendering features will work on all computers or game installations.  Some customized features of this pack require installation of Optifine for your game version to work properly. While these features add the the guest experience they are not required to enjoy SparkParks while utilizing this Resource-Pack. We do not offer any support for improper use of this pack or altering of game video graphical settings that may disrupt or break the functionality of this pack. All game settings for best use of this pack are described above.
-[^3]: Help from the SparkParks Support Desk is not immediate. Tickets are handled by the support team in the order by which they are received unless an issue is deemed higher priority for the team. Tickets may take up to a day or more to be resolved. If the matter is urgent we ask that you contact the server administration via email to apps@onebignation.net.
+[^3]: SparkParks does not offer any support or troubleshooting for video graphical issues related to Optifine settings or installation / alterations of Shader-Packs used in conjuction with the SparkParks resource-pack.
+[^4]: Help from the SparkParks Support Desk is not immediate. Tickets are handled by the support team in the order by which they are received unless an issue is deemed higher priority for the team. Tickets may take up to a day or more to be resolved. If the matter is urgent we ask that you contact the server administration via email to apps@onebignation.net.
