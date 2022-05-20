@@ -32,7 +32,7 @@ Major Release | `1.17.x` | `2` | `0` | `0` | B`01` | *SparkParks RP 1.16.x **2**
 + Attack Indicator : `Crosshair`
 + Dynamic FOV : `ON`
    
-   Looking to further enhance the game experience with virtual reality head-sets or curved gaming monitors?  Follow the FOV set-up below. If this does not pertain to your gaming set-up, do not change your FOV setting from `Normal`!
+   Looking to further enhance the game experience with virtual reality head-sets or curved gaming monitors?  Follow the FOV VR set-up below. If this does not pertain to your gaming set-up, do not change your FOV setting from `Normal`!
    + FOV : `65` (Curved gaming monitors ~ 2-5 degrees)
    + FOV : `62` (Curved gaming monitors ~ 5-10 degrees **or** ulta-wide screen)
    + FOV : `60` (Oculus / Valve Index VR headset *with glasses extender insert*)
