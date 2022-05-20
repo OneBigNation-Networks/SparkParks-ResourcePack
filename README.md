@@ -17,6 +17,27 @@ Major Release | `1.17.x` | `2` | `0` | `0` | B`01` | *SparkParks RP 1.16.x **2**
 
 *Only Minor and Major Releases will be compressed and optimized for guest use. Patch and Experimental versions should only be used by guests looking for the in-production version of the Resource-Pack who do not mind higher resource usage or un-optimized graphics.*[^2]
 
+## Resource-Pack Optimized Game Settings
+*Our Resource-Pack takes advantage of many unique and advanced rendering features of the Minecraft game engine. As such your game video graphical settings should be set to match the parameters listed below to ensure you receive the best in-game visual experience while using the SparkParks pack.
+**All video settings are changable in game by clicking: `Options -> Video Settings`**.*
++ Graphics : `Fancy` *or* `Fabulous!`
++ Smooth Lighting : `Maximum`
++ Smooth Lighting Level : `100%`
++ Brightness : `Bright` (Integrated Monitors / less than 144Hz Monitors) *or* `50%` (Gaming Monitors / 144Hz or more Monitors)
++ Dynamic Lights : `OFF` (Low performance computers) *or* `Fast` (High performance computers)
++ Render Distance : `15-35 Chunks` (Low performance computers) *or* `35-48 Chunks` (High performance computers)
++ Max Framerate : `Unlimited`
++ View Bobbing : `ON`
++ Entity Shadows : `ON`
++ Attack Indicator : `Crosshair`
++ Dynamic FOV : `ON`
+   
+   Looking to further enhance the game experience with virtual reality head-sets or curved gaming monitors?  Follow the FOV set-up below. If this does not pertain to your gaming set-up, do not change your FOV setting from `Normal`!
+   + FOV : `65` (Curved gaming monitors ~ 2-5 degrees)
+   + FOV : `62` (Curved gaming monitors ~ 5-10 degrees **or** ulta-wide screen)
+   + FOV : `60` (Oculus / Valve Index VR headset *with glasses extender insert*)
+   + FOV : `58` (Oculus / Valve Index VR headset *without glasses extender insert*)
+
 ## Still having issues?
 We're Sorry to hear if you're experiencing any problems with our Resource-Pack.
 *To better help you experience the magic, we encourage you to follow these resolution steps:*
